@@ -273,9 +273,7 @@ footer p{
     /* players section */
 
     .players{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
+       
         width: 100%;
         margin-bottom:165px;
       }
@@ -291,7 +289,7 @@ footer p{
       .player{
           width: 320px;
           padding: 10px;
-          box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+         
       }
       .player img{
         width: 300px;
@@ -299,7 +297,7 @@ footer p{
       }
       
       .player h3{
-          font-family: 'Poppins', sans-serif;
+         
           font-size: 28px;
           line-height: 40px;
           margin-top: 16px;
@@ -307,7 +305,7 @@ footer p{
       
       
       .player p{
-          font-family: 'Poppins', sans-serif;
+         
           font-size: 16px;
       line-height: 26px;
       padding-bottom: 33px;
